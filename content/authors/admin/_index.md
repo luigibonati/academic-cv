@@ -141,7 +141,7 @@ awards:
     summary: ""
   - title: ETH Silver medal for outstanding doctoral thesis
     url: https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal.html
-    date: 2022-20-01
+    date: 2022-01-20
     awarder: ETH Zurich
     icon: ""
     summary: ""

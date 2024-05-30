@@ -1,12 +1,13 @@
 ---
-title: "Combining machine learning and enhanced sampling to study catalytic processes under operando conditions"
+title: Initiative for Computational Catalysis Inaugural Workshop
 
 event: Initiative for Computational Catalysis Inaugural Workshop
 event_url: https://example.org
 
 location: Flatiron Institute, New York, USA
-summary: Initiative for Computational Catalysis Inaugural Workshop
-date: '2024-02-19T13:00:00Z'
+summary: "Combining machine learning and enhanced sampling to study catalytic processes under operando conditions"
+abstract: "Combining machine learning and enhanced sampling to study catalytic processes under operando conditions"
+date: '2024-02-19'
 all_day: false
 
 publishDate: '2017-01-01T00:00:00Z'

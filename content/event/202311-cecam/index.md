@@ -7,7 +7,7 @@ event_url: https://example.org
 location: CECAM HQ, EPFL, Lausanne, Switzerland
 summary: "Machine learning and enhanced sampling: a synergistic interplay"
 abstract: "Machine learning and enhanced sampling: a synergistic interplay"
-date: '2023-11-28T13:00:00Z'
+date: '2023-11-28'
 all_day: false
 
 publishDate: '2017-01-01T00:00:00Z'

@@ -1,12 +1,13 @@
 ---
-title: "Machine learning & enhanced sampling: a synergistic interplay"
+title: 1st Virapid (Vienna Research Platform on Accelerating Photoreaction Discovery) workshop
 
 event: 1st Virapid (Vienna Research Platform on Accelerating Photoreaction Discovery) workshop
 event_url: https://example.org
 
 location: University of Vienna, Vienna, Austria
-summary: 1st Virapid (Vienna Research Platform on Accelerating Photoreaction Discovery) workshop
-date: '2024-02-27T13:00:00Z'
+summary: "Machine learning & enhanced sampling: a synergistic interplay"
+abstract: "Machine learning & enhanced sampling: a synergistic interplay"
+date: '2024-02-27'
 all_day: false
 
 publishDate: '2017-01-01T00:00:00Z'

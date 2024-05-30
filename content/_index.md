@@ -67,12 +67,12 @@ sections:
         folders:
           - event
     design:
-      view: article-grid
-      columns: 1
-      # view: date-title-summary
-      # # Reduce spacing
-      # spacing:
-      #   padding: [0, 0, 0, 0]
+      # view: article-grid
+      # columns: 1
+      view: date-title-summary
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
   - block: collection
     id: news
     content:

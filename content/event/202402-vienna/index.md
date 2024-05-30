@@ -1,10 +1,10 @@
 ---
-title: "Machine learning and enhanced sampling: a synergistic interplay"
+title: "Machine learning & enhanced sampling: a synergistic interplay"
 
 event: 1st Virapid (Vienna Research Platform on Accelerating Photoreaction Discovery) workshop
 event_url: https://example.org
 
-location: Hugo Blox Builder HQ
+location: University of Vienna, Vienna, Austria
 summary: 1st Virapid (Vienna Research Platform on Accelerating Photoreaction Discovery) workshop
 date: '2024-02-27T13:00:00Z'
 all_day: false

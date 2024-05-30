@@ -1,11 +1,11 @@
 ---
-title: "Machine learning and enhanced sampling: a synergistic interplay"
+title: "Combining machine learning and enhanced sampling to study catalytic processes under operando conditions"
 
-event: Initiative for Computational Catalysis Inaugural Workshop,
+event: Initiative for Computational Catalysis Inaugural Workshop
 event_url: https://example.org
 
-location: Hugo Blox Builder HQ
-summary: Initiative for Computational Catalysis Inaugural Workshop,
+location: Flatiron Institute, New York, USA
+summary: Initiative for Computational Catalysis Inaugural Workshop
 date: '2024-02-19T13:00:00Z'
 all_day: false
 

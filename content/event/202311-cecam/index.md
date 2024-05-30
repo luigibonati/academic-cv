@@ -4,7 +4,7 @@ title: "Machine learning and enhanced sampling: a synergistic interplay"
 event: Quantum2 on machine learning enhanced sampling
 event_url: https://example.org
 
-location: Hugo Blox Builder HQ
+location: CECAM HQ, EPFL, Lausanne, Switzerland
 summary: Quantum2 on machine learning enhanced sampling
 date: '2023-11-28T13:00:00Z'
 all_day: false

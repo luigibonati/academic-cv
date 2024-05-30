@@ -135,7 +135,7 @@ work:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: ICC2024 Young Scientists Travel Prize
-    url: https://www.comiteszurigo.ch/single-post/premio-innovazione-italiana-in-svizzera-3-edizione
+    url: http://www.iacs-catalysis.org/awards.html
     date: 2024-07-14
     awarder: International Association of Catalysis Societies
     icon: iacs
@@ -150,7 +150,7 @@ awards:
     url: https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal.html
     date: 2022-01-20
     awarder: ETH Zurich
-    icon: eth
+    icon: eth2
     summary: ""
 ---
 

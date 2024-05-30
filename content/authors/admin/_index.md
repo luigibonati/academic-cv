@@ -132,7 +132,7 @@ work:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards: ICC2024 Young Scientists Travel Support Prize
+awards:
   - title: ICC2024 Young Scientists Travel Prize
     url: https://www.comiteszurigo.ch/single-post/premio-innovazione-italiana-in-svizzera-3-edizione
     date: 2024-07-14

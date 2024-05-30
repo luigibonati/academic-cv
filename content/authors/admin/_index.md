@@ -56,6 +56,7 @@ education:
     institution: ETH Zurich, Switzerland
     date_start: 2018-01-01
     date_end: 2021-09-30
+    icon: eth
     summary: |
       Thesis on _Machine learning and enhanced sampling simulations_, supervised by [Prof Michele Parrinello](https://scholar.google.com/citations?user=lnkt9rgAAAAJ&hl=en).
     button:
@@ -79,7 +80,7 @@ work:
   - position: Postdoctoral Researcher
     company_name: Italian Institute of Technology
     company_url: ''
-    company_logo: ''
+    company_logo: iit
     date_start: 2021-10-01
     date_end: ''
     summary: |2-

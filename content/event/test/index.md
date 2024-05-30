@@ -4,13 +4,11 @@ title: Machine learning and enhanced sampling
 event: CECAM Workshop
 event_url: https://example.org
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
+location: Hugo Blox Builder HQ
+summary: An example talk using Hugo Blox Builder's Markdown slides feature.
 date: '2030-06-01T13:00:00Z'
-#date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
-# Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
 authors:

@@ -11,7 +11,7 @@ last_name: Bonati
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ⚛️
 
 # Is this the primary user of the site?
 superuser: true
@@ -137,19 +137,19 @@ awards:
     url: https://www.comiteszurigo.ch/single-post/premio-innovazione-italiana-in-svizzera-3-edizione
     date: 2024-07-14
     awarder: International Association of Catalysis Societies
-    icon: iacs
+    icon: custom/iacs
     summary: ""
   - title: Italian Innovation in Switzerland award
     url: https://www.comiteszurigo.ch/single-post/premio-innovazione-italiana-in-svizzera-3-edizione
     date: 2023-05-10
     awarder: Comites Zurich
-    icon: comites
+    icon: custom/comites
     summary: ""
   - title: ETH Silver medal for outstanding doctoral thesis
     url: https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal.html
     date: 2022-01-20
     awarder: ETH Zurich
-    icon: eth
+    icon: custom/ethz
     summary: ""
 ---
 

@@ -135,13 +135,13 @@ work:
 awards:
   - title: Italian Innovation in Switzerland award
     url: https://www.comiteszurigo.ch/single-post/premio-innovazione-italiana-in-svizzera-3-edizione
-    date: '2023-05-10'
+    date: 2023-05-10
     awarder: Comites Zurich
     icon: ""
     summary: ""
   - title: ETH Silver medal for outstanding doctoral thesis
     url: https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal.html
-    date: '2022-20-01'
+    date: 2022-20-01
     awarder: ETH Zurich
     icon: ""
     summary: ""

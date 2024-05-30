@@ -1,12 +1,12 @@
 ---
-title: Machine learning and enhanced sampling
+title: "Machine learning and enhanced sampling: a synergistic interplay"
 
-event: CECAM Workshop
+event: Quantum2 on machine learning enhanced sampling
 event_url: https://example.org
 
 location: Hugo Blox Builder HQ
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-date: '2030-06-01T13:00:00Z'
+summary: Quantum2 on machine learning enhanced sampling
+date: '2023-11-28T13:00:00Z'
 all_day: false
 
 publishDate: '2017-01-01T00:00:00Z'

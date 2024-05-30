@@ -132,18 +132,24 @@ work:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+awards: ICC2024 Young Scientists Travel Support Prize
+  - title: ICC2024 Young Scientists Travel Prize
+    url: https://www.comiteszurigo.ch/single-post/premio-innovazione-italiana-in-svizzera-3-edizione
+    date: 2024-07-14
+    awarder: International Association of Catalysis Societies
+    icon: iacs
+    summary: ""
   - title: Italian Innovation in Switzerland award
     url: https://www.comiteszurigo.ch/single-post/premio-innovazione-italiana-in-svizzera-3-edizione
     date: 2023-05-10
     awarder: Comites Zurich
-    icon: ""
+    icon: comites
     summary: ""
   - title: ETH Silver medal for outstanding doctoral thesis
     url: https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal.html
     date: 2022-01-20
     awarder: ETH Zurich
-    icon: ""
+    icon: eth
     summary: ""
 ---
 

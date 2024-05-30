@@ -58,7 +58,7 @@ education:
     date_end: 2021-09-30
     icon: eth
     summary: |
-      Thesis on _Machine learning and enhanced sampling simulations_, supervised by [Prof Michele Parrinello](https://scholar.google.com/citations?user=lnkt9rgAAAAJ&hl=en).
+      Thesis on _Machine learning and enhanced sampling simulations_, supervised by Prof. Michele Parrinello [(website)](https://scholar.google.com/citations?user=lnkt9rgAAAAJ&hl=en).
     button:
       text: 'Read Thesis'
       url: 'https://www.research-collection.ethz.ch/handle/20.500.11850/517813'
@@ -146,7 +146,7 @@ awards:
     awarder: Comites Zurich
     icon: comites
     summary: ""
-  - title: ETH Silver medal for outstanding doctoral thesis
+  - title: Silver medal for outstanding doctoral thesis
     url: https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal.html
     date: 2022-01-20
     awarder: ETH Zurich

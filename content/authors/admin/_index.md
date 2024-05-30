@@ -47,7 +47,7 @@ profiles:
     url: https://orcid.org/0000-0002-9118-6239
 
 interests:
-  - Atomistic Simulations
+  - Atomistic simulations
   - Enhanced sampling
   - Machine learning
 
@@ -156,4 +156,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Using computers to understand the world, one atom at a time.
+
+I am a researcher working at the intersection of physics, chemistry and computer science. I enjoy creating new algorithms to extend the scope of atomistic simulations and collaborating to apply them to challenging problems.

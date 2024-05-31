@@ -31,15 +31,15 @@ tags:
 featured: false
 
 # links:
-# - name: ""
-#   url: ""
+- name: "abcd"
+  url: "http://arxiv.org/pdf/1512.04133v1"
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'http://arxiv.org/pdf/1512.04133v1'
 url_slides: ''
-url_source: ''
+url_source: 'http://arxiv.org/pdf/1512.04133v1'
 url_video: ''
 
 # Featured image

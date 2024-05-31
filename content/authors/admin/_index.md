@@ -84,7 +84,7 @@ education:
 
 work:
   - position: Postdoctoral Researcher
-    company_name: Italian Institute of Technology
+    company_name: Italian Institute of Technology, Genoa, Italy
     company_url: ''
     company_logo: iit
     date_start: 2021-10-01

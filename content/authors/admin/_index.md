@@ -50,6 +50,7 @@ interests:
   - Atomistic simulations
   - Enhanced sampling
   - Machine learning
+  - Catalytic reactivity
 
 education:
   - area: PhD Physics
@@ -58,7 +59,9 @@ education:
     date_end: 2021-09-30
     icon: eth
     summary: |
-      Thesis on _Machine learning and enhanced sampling simulations_, supervised by Prof. Michele Parrinello [(website)](https://scholar.google.com/citations?user=lnkt9rgAAAAJ&hl=en).
+      - Thesis: _Machine learning and enhanced sampling simulations_
+      - Topics: Machine learning potentials for rare events, enhanced sampling methods, data-driven collective variables
+      -  Supervisor: Prof. Michele Parrinello.
     button:
       text: 'Read Thesis'
       url: 'https://www.research-collection.ethz.ch/handle/20.500.11850/517813'
@@ -67,14 +70,16 @@ education:
     date_start: 2015-10-01
     date_end: 2017-11-30
     summary: |
-      Grade: 110/110 cum laude
+      - Curriculum: Computational physics, statistical physics, condensed matter.
+      - Thesis: _Simulations of the freezing of silicon_.
+      - Grade: 110/110 cum laude.
 
   - area: BSc Physics
     institution: University of Milan
     date_start: 2011-10-01
     date_end: 2015-02-28
     summary: |
-      Grade: 110/110 cum laude
+      - Grade: 110/110 cum laude.
 
 work:
   - position: Postdoctoral Researcher
@@ -84,10 +89,8 @@ work:
     date_start: 2021-10-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Machine learning & enhanced sampling for studying catalytic reactions in operando conditions
+      - AmmoRef research network (_Ammonia reforming: catalyst synthesis / characterization / mechanisms_) within the TransHyDE project, funded by the German Federal Ministry of Education and Research.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

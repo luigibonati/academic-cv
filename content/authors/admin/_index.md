@@ -156,6 +156,7 @@ awards:
 
 ### About Me
 
-I am a researcher working at the intersection of physics, chemistry and computer science. I enjoy creating new algorithms to extend the scope of atomistic simulations and collaborating to apply them to solve challenging problems.
+_Using computers 💻 to understand the world 🌎, one atom ⚛️ at a time._ 
 
-➡️ Using computers to understand the world, one atom at a time 💻🧪⚛️
+I am a researcher working at the intersection of physics, chemistry and computer science. I enjoy creating new algorithms to extend the scope of atomistic simulations and collaborating to apply them to solve challenging problems. 
+

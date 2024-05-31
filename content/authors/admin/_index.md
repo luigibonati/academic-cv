@@ -61,7 +61,8 @@ education:
     summary: |
       - Thesis: _Machine learning and enhanced sampling simulations_
       - Topics: Machine learning potentials for rare events, enhanced sampling methods, data-driven collective variables
-      -  Supervisor: Prof. Michele Parrinello.
+      - Supervisor: Prof. Michele Parrinello.
+      - Thesis awarded with ETH Silver Medal.
     button:
       text: 'Read Thesis'
       url: 'https://www.research-collection.ethz.ch/handle/20.500.11850/517813'

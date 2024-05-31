@@ -3,7 +3,7 @@ title: Unraveling the crystallization kinetics of the Ge2Sb2Te5 phase change com
   with a machine-learned interatomic potential
 authors:
 - Omar Abou El Kheir
-- Luigi Bonati
+- admin
 - Michele Parrinello
 - Marco Bernasconi
 date: '2024-01-01'
